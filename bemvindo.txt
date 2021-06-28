@@ -4,6 +4,6 @@ Bem vindo ao curso do Alura
 - Julia
 - Marlon
 - Matheus
-
+- Gustavo
 
 
