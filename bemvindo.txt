@@ -1,1 +1,9 @@
-Bem vindo ao curso do Aluraaa
+feature/feature_branch
+Bem vindo ao curso do Alura
+- Matheus
+- Julia
+- Marlon
+- Matheus
+- Gustavo
+- Marcelo
+
